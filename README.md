@@ -11,3 +11,10 @@ from Parse and display.
 
 NOTE: Be sure to replace your Facebook AppID in strings.xml,
 Parse Application ID and Client Key in MyApp.java.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
